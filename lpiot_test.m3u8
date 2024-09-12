@@ -3,5 +3,5 @@
 #EXT-X-TARGETDURATION:7
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:6.800000,
-https://gitee.com/hujiese/test/raw/master/lpiot_test0.ts
+https://raw.githubusercontent.com/hujiese/test/main/lpiot_test0.ts
 #EXT-X-ENDLIST
